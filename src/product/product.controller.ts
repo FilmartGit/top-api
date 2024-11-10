@@ -30,5 +30,4 @@ export class ProductController {
     async find(@Body() dto: FindProductDto) {
 
     }
-
 }
